@@ -41,6 +41,7 @@ Our methodology is highly dependent on the availability of relevant housing data
  
 For each case study, we will analyze housing data prior to social housing movements and their resulting policies, as well as data from a time period after new policies were implemented. Data analysis results will be displayed spatially on city-wide maps and graphically through data plots. 
 
-[[https://github.com/casey-leedom/up206a_Group-Project/blob/main/Group%20Assignments/Images/up206a%20Project%20Methodology%20Flow%20Chart.png]]
+![plot](Images/up206a%20Project%20Methodology%20Flow%20Chart.png)
+
 ### Conclusion
 Grassroot movements leverage their communities’ strengths and dreams to create power for themselves. While we know that the communities, context, and constitutional rights surrounding each movement differ, we intend to illuminate the change that can accompany action. We are particularly interested in the ways that these actions change the public perception of the value of housing and how governing bodies change their housing practices. We hope that these insights - both the challenges and successes - will offer encouragement to other movements to continue the fight for housing for all. 
