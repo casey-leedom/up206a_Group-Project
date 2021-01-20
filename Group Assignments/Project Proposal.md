@@ -36,7 +36,7 @@ The following data sources may provide relevant housing data for each potential 
 | Los Angeles, CA, United States| 1. [City of Los Angeles Open Data](https://data.lacity.org/browse?q=housing&sortBy=relevance)|
 
 
-### Analysis and Visualizations
+### Methodology 
 Our methodology is highly dependent on the availability of relevant housing data for each potential city. We will initially determine cities that have strong grassroots housing movements as potential candidates for case studies. Then, we will review data sources to determine if the necessary housing data is available for each city. Based on data availability and our initial literature review, we will choose two cities as case studies for this research project. 
  
 For each case study, we will analyze housing data prior to social housing movements and their resulting policies, as well as data from a time period after new policies were implemented. Data analysis results will be displayed spatially on city-wide maps and graphically through data plots. 
