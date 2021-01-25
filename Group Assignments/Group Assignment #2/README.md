@@ -1,9 +1,8 @@
 Folder for Group Assignment #2
 
 File list:
-1. Python Notebook File - 2020 Property Ownership Data in Barcelona
-    a. 2020 Property Ownership Data file
-    b. Barcelona neighborhood geojson file
+1. Python Notebook File - 2020 Property Ownership Data in Barcelona   
 2. Python Notebook File - 2009 Property Ownership Data in Barcelona
-    a. 2009 Property Ownership Data file
-    b. Barcelona neighborhood goejson file (same as above)
+3. 2020 Property Ownership Data file
+4. 2009 Property Ownership Data file
+5. Barcelona neighborhood goejson file
