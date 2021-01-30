@@ -17,7 +17,7 @@ We will largely be sharing responsibilities throughout the project and working t
     
 ## An update on our data:
 
-We have found the following data sources:
+We have focused our data search on Barcelona, and will be looking to incorporate overall data for Spain in the next week. The data we've found is broken down by spatial elements, such as neighborhoods, districts, or municipalities, but it will need to be merged with geojson data in order to map the information for our project. We have found the following data sources:
 
 **Barcelona housing data:**
 
