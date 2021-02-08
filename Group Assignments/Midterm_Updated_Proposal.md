@@ -24,21 +24,17 @@ We will analyze data related to each housing movement before and after policy im
 The following data sources provide relevant housing data for Spain and Barcelona. While available data shows a general picture of the housing market, it does not cover the exact temporal and spatial breakdowns that we'd hope to show. 
 | Scope | Data Source |
 |------|-------------|
-| Spain | 1. [Barcelona Open Data](https://opendata-ajuntament.barcelona.cat/data/en/organization/habitatge?page=1)|
+| Barcelona | 1. [Barcelona Open Data](https://opendata-ajuntament.barcelona.cat/data/en/organization/habitatge?page=1)|
 |                  | 2. [Metropolitan Housing Observatory of Barcelona Data](https://www.ohb.cat/#vis)|
-| Barcelona | 1. [Uruguay National Open Data](https://catalogodatos.gub.uy/group/vivienda)|
-| London, UK | 1. [UK Open Data](https://data.gov.uk/search?q=housing+london&filters%5Bpublisher%5D=&filters%5Btopic%5D=Towns+and+cities&filters%5Bformat%5D=&sort=best)|
-| Berlin, Germany | 1. [Berlin Open Data](https://daten.berlin.de/datensaetze)|
-|                 | 2. [Eurostat Data](https://ec.europa.eu/eurostat/web/main/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=1&p_p_state=maximized&p_p_mode=view&_estatsearchportlet_WAR_estatsearchportlet_action=search&_estatsearchportlet_WAR_estatsearchportlet_theme=empty&_estatsearchportlet_WAR_estatsearchportlet_collection=empty&p_auth=4aVafFXl&text=housing)|
-| Los Angeles, CA, United States| 1. [City of Los Angeles Open Data](https://data.lacity.org/browse?q=housing&sortBy=relevance)|
+
+| Spain | 1. [Spanish Census: Housing & Population](https://www.ine.es/censos2011/tablas/InformeAccesibilidad.do)|
+|                  | 2. [Judicial Records](https://www.poderjudicial.es/cgpj/es/Temas/Estadistica-Judicial/Estudios-e-Informes/Efecto-de-la-Crisis-en-los-organos-judiciales/)|
 
 
 ### Methodology 
-Our methodology is highly dependent on the availability of relevant housing data for each potential city. We will initially determine cities that have strong grassroots housing movements as potential candidates for case studies. Then, we will review data sources to determine if the necessary housing data is available for each city. Based on data availability and our initial literature review, we will choose two cities as case studies for this research project. 
- 
-For each case study, we will analyze housing data prior to social housing movements and their resulting policies, as well as data from a time period after new policies were implemented. Data analysis results will be displayed spatially on city-wide maps and graphically through data plots. 
+Our intial methodology was to determine cities that have strong grassroots housing movements to research. We’ve modified our original project plan from comparing housing movements in two countries to a focus on housing in Spain based on the challenges we’ve faced in finding and translating data in each of these locations. Housing markets and policies are systematically different in each country, so by focusing on Barcelona (and Spain), we are able to dive into the historical and political background of housing justice issues specific to Spain. So, we will show the general housing conditions in Spain, then move to discuss the changes in Barcelona before and after their newest policy changes.
 
 ![plot](Images/up206a%20Project%20Methodology%20Flow%20Chart.png)
 
 ### Conclusion
-Grassroot movements leverage their communities’ strengths and dreams to create power for themselves. While we know that the communities, context, and constitutional rights surrounding each movement differ, we intend to illuminate the change that can accompany action. We are particularly interested in the ways that these actions change the public perception of the value of housing and how governing bodies change their housing practices. We hope that these insights - both the challenges and successes - will offer encouragement to other movements to continue the fight for housing for all. 
+Grassroot movements leverage their communities’ strengths and dreams to create power for themselves. While we know that the communities, context, and constitutional rights surrounding each movement differ, we intend to illuminate the change that can accompany action throught the housing justice movements in Spain. We are particularly interested in the ways that these actions change the public perception of the value of housing and how governing bodies change their housing practices. We hope that these insights - both the challenges and successes - will offer encouragement to other movements to continue the fight for housing for all. 
