@@ -26,7 +26,6 @@ The following data sources provide relevant housing data for Spain and Barcelona
 |------|-------------|
 | Barcelona | 1. [Barcelona Open Data](https://opendata-ajuntament.barcelona.cat/data/en/organization/habitatge?page=1)|
 |                  | 2. [Metropolitan Housing Observatory of Barcelona Data](https://www.ohb.cat/#vis)|
-
 | Spain | 1. [Spanish Census: Housing & Population](https://www.ine.es/censos2011/tablas/InformeAccesibilidad.do)|
 |                  | 2. [Judicial Records](https://www.poderjudicial.es/cgpj/es/Temas/Estadistica-Judicial/Estudios-e-Informes/Efecto-de-la-Crisis-en-los-organos-judiciales/)|
 
