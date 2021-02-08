@@ -33,6 +33,8 @@ The following data sources provide relevant housing data for Spain and Barcelona
 ### Methodology 
 Our intial methodology was to determine cities that have strong grassroots housing movements to research. We’ve modified our original project plan from comparing housing movements in two countries to a focus on housing in Spain based on the challenges we’ve faced in finding and translating data in each of these locations. Housing markets and policies are systematically different in each country, so by focusing on Barcelona (and Spain), we are able to dive into the historical and political background of housing justice issues specific to Spain. So, we will show the general housing conditions in Spain, then move to discuss the changes in Barcelona before and after their newest policy changes.
 
+The methodology flow chart below shows our process, with completed steps shaded.
+
 ![plot](Images/up206a%20Project%20Methodology%20Flow%20Chart.png)
 
 ### Conclusion
