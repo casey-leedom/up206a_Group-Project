@@ -33,7 +33,7 @@ Our initial methodology was to determine cities that have strong grassroots hous
 
 The methodology flow chart below shows our process, with completed steps shaded in light green.
 
-![plot](Group Assignments/Images/up206a%20Project%20Methodology%20Flow%20Chart_Midterm%20Update.png)
+![plot](Images/up206a%20Project%20Methodology%20Flow%20Chart_Midterm%20Update.png)
 
 ### Conclusion
 Grassroot movements leverage their communities’ strengths and dreams to create power for themselves. While we know that the communities, context, and constitutional rights surrounding each movement differ, we intend to illuminate the change that can accompany action throught the housing justice movements in Spain. We are particularly interested in the ways that these actions change the public perception of the value of housing and how governing bodies change their housing practices. We hope that these insights - both the challenges and successes - will offer encouragement to other movements to continue the fight for housing for all. 
