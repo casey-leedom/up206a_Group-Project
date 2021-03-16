@@ -1,0 +1,293 @@
+"Any","Codi_Districte","Nom_Districte","Codi_Barri","Nom_Barri","Tipus_propietari","Nombre"
+2016,1,"Ciutat Vella",1,"el Raval","Persona física. Nacionalitat  espanyola",14715
+2016,1,"Ciutat Vella",2,"el Barri Gòtic","Persona física. Nacionalitat  espanyola",6237
+2016,1,"Ciutat Vella",3,"la Barceloneta","Persona física. Nacionalitat  espanyola",6761
+2016,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Persona física. Nacionalitat  espanyola",9377
+2016,2,"Eixample",5,"el Fort Pienc","Persona física. Nacionalitat  espanyola",11841
+2016,2,"Eixample",6,"la Sagrada Família","Persona física. Nacionalitat  espanyola",22701
+2016,2,"Eixample",7,"la Dreta de l'Eixample","Persona física. Nacionalitat  espanyola",18257
+2016,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Persona física. Nacionalitat  espanyola",18205
+2016,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Persona física. Nacionalitat  espanyola",25050
+2016,2,"Eixample",10,"Sant Antoni","Persona física. Nacionalitat  espanyola",16157
+2016,3,"Sants-Montjuïc",11,"el Poble Sec","Persona física. Nacionalitat  espanyola",15239
+2016,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Persona física. Nacionalitat  espanyola",463
+2016,3,"Sants-Montjuïc",13,"la Marina de Port","Persona física. Nacionalitat  espanyola",11381
+2016,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Persona física. Nacionalitat  espanyola",4406
+2016,3,"Sants-Montjuïc",15,"Hostafrancs","Persona física. Nacionalitat  espanyola",6746
+2016,3,"Sants-Montjuïc",16,"la Bordeta","Persona física. Nacionalitat  espanyola",7690
+2016,3,"Sants-Montjuïc",17,"Sants - Badal","Persona física. Nacionalitat  espanyola",10406
+2016,3,"Sants-Montjuïc",18,"Sants","Persona física. Nacionalitat  espanyola",18040
+2016,4,"Les Corts",19,"les Corts","Persona física. Nacionalitat  espanyola",19726
+2016,4,"Les Corts",20,"la Maternitat i Sant Ramon","Persona física. Nacionalitat  espanyola",10180
+2016,4,"Les Corts",21,"Pedralbes","Persona física. Nacionalitat  espanyola",4356
+2016,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Persona física. Nacionalitat  espanyola",2873
+2016,5,"Sarrià-Sant Gervasi",23,"Sarrià","Persona física. Nacionalitat  espanyola",10356
+2016,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Persona física. Nacionalitat  espanyola",5435
+2016,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Persona física. Nacionalitat  espanyola",9514
+2016,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Persona física. Nacionalitat  espanyola",19460
+2016,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Persona física. Nacionalitat  espanyola",12894
+2016,6,"Gràcia",28,"Vallcarca i els Penitents","Persona física. Nacionalitat  espanyola",7428
+2016,6,"Gràcia",29,"el Coll","Persona física. Nacionalitat  espanyola",3369
+2016,6,"Gràcia",30,"la Salut","Persona física. Nacionalitat  espanyola",5957
+2016,6,"Gràcia",31,"la Vila de Gràcia","Persona física. Nacionalitat  espanyola",24824
+2016,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Persona física. Nacionalitat  espanyola",15669
+2016,7,"Horta-Guinardó",33,"el Baix Guinardó","Persona física. Nacionalitat  espanyola",10927
+2016,7,"Horta-Guinardó",34,"Can Baró","Persona física. Nacionalitat  espanyola",4264
+2016,7,"Horta-Guinardó",35,"el Guinardó","Persona física. Nacionalitat  espanyola",16320
+2016,7,"Horta-Guinardó",36,"la Font d'en Fargues","Persona física. Nacionalitat  espanyola",4910
+2016,7,"Horta-Guinardó",37,"el Carmel","Persona física. Nacionalitat  espanyola",13873
+2016,7,"Horta-Guinardó",38,"la Teixonera","Persona física. Nacionalitat  espanyola",5249
+2016,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Persona física. Nacionalitat  espanyola",2868
+2016,7,"Horta-Guinardó",40,"Montbau","Persona física. Nacionalitat  espanyola",2454
+2016,7,"Horta-Guinardó",41,"la Vall d'Hebron","Persona física. Nacionalitat  espanyola",3097
+2016,7,"Horta-Guinardó",42,"la Clota","Persona física. Nacionalitat  espanyola",317
+2016,7,"Horta-Guinardó",43,"Horta","Persona física. Nacionalitat  espanyola",12396
+2016,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Persona física. Nacionalitat  espanyola",11217
+2016,8,"Nou Barris",45,"Porta","Persona física. Nacionalitat  espanyola",9973
+2016,8,"Nou Barris",46,"el Turó de la Peira","Persona física. Nacionalitat  espanyola",5413
+2016,8,"Nou Barris",47,"Can Peguera","Persona física. Nacionalitat  espanyola",212
+2016,8,"Nou Barris",48,"la Guineueta","Persona física. Nacionalitat  espanyola",5880
+2016,8,"Nou Barris",49,"Canyelles","Persona física. Nacionalitat  espanyola",2753
+2016,8,"Nou Barris",50,"les Roquetes","Persona física. Nacionalitat  espanyola",6251
+2016,8,"Nou Barris",51,"Verdun","Persona física. Nacionalitat  espanyola",5372
+2016,8,"Nou Barris",52,"la Prosperitat","Persona física. Nacionalitat  espanyola",11545
+2016,8,"Nou Barris",53,"la Trinitat Nova","Persona física. Nacionalitat  espanyola",2877
+2016,8,"Nou Barris",54,"Torre Baró","Persona física. Nacionalitat  espanyola",1101
+2016,8,"Nou Barris",55,"Ciutat Meridiana","Persona física. Nacionalitat  espanyola",3270
+2016,8,"Nou Barris",56,"Vallbona","Persona física. Nacionalitat  espanyola",579
+2016,9,"Sant Andreu",57,"la Trinitat Vella","Persona física. Nacionalitat  espanyola",3556
+2016,9,"Sant Andreu",58,"Baró de Viver","Persona física. Nacionalitat  espanyola",832
+2016,9,"Sant Andreu",59,"el Bon Pastor","Persona física. Nacionalitat  espanyola",4273
+2016,9,"Sant Andreu",60,"Sant Andreu","Persona física. Nacionalitat  espanyola",25762
+2016,9,"Sant Andreu",61,"la Sagrera","Persona física. Nacionalitat  espanyola",10716
+2016,9,"Sant Andreu",62,"el Congrés i els Indians","Persona física. Nacionalitat  espanyola",6268
+2016,9,"Sant Andreu",63,"Navas","Persona física. Nacionalitat  espanyola",9046
+2016,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Persona física. Nacionalitat  espanyola",16947
+2016,10,"Sant Martí",65,"el Clot","Persona física. Nacionalitat  espanyola",10647
+2016,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Persona física. Nacionalitat  espanyola",5884
+2016,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Persona física. Nacionalitat  espanyola",3878
+2016,10,"Sant Martí",68,"el Poblenou","Persona física. Nacionalitat  espanyola",13434
+2016,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Persona física. Nacionalitat  espanyola",4795
+2016,10,"Sant Martí",70,"el Besòs i el Maresme","Persona física. Nacionalitat  espanyola",8254
+2016,10,"Sant Martí",71,"Provençals del Poblenou","Persona física. Nacionalitat  espanyola",7895
+2016,10,"Sant Martí",72,"Sant Martí de Provençals","Persona física. Nacionalitat  espanyola",10885
+2016,10,"Sant Martí",73,"la Verneda i la Pau","Persona física. Nacionalitat  espanyola",12048
+2016,1,"Ciutat Vella",1,"el Raval","Persona física. Nacionalitat  estrangera",1691
+2016,1,"Ciutat Vella",2,"el Barri Gòtic","Persona física. Nacionalitat  estrangera",765
+2016,1,"Ciutat Vella",3,"la Barceloneta","Persona física. Nacionalitat  estrangera",611
+2016,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Persona física. Nacionalitat  estrangera",1109
+2016,2,"Eixample",5,"el Fort Pienc","Persona física. Nacionalitat  estrangera",433
+2016,2,"Eixample",6,"la Sagrada Família","Persona física. Nacionalitat  estrangera",587
+2016,2,"Eixample",7,"la Dreta de l'Eixample","Persona física. Nacionalitat  estrangera",901
+2016,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Persona física. Nacionalitat  estrangera",644
+2016,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Persona física. Nacionalitat  estrangera",611
+2016,2,"Eixample",10,"Sant Antoni","Persona física. Nacionalitat  estrangera",535
+2016,3,"Sants-Montjuïc",11,"el Poble Sec","Persona física. Nacionalitat  estrangera",1074
+2016,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Persona física. Nacionalitat  estrangera",7
+2016,3,"Sants-Montjuïc",13,"la Marina de Port","Persona física. Nacionalitat  estrangera",325
+2016,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Persona física. Nacionalitat  estrangera",121
+2016,3,"Sants-Montjuïc",15,"Hostafrancs","Persona física. Nacionalitat  estrangera",210
+2016,3,"Sants-Montjuïc",16,"la Bordeta","Persona física. Nacionalitat  estrangera",113
+2016,3,"Sants-Montjuïc",17,"Sants - Badal","Persona física. Nacionalitat  estrangera",193
+2016,3,"Sants-Montjuïc",18,"Sants","Persona física. Nacionalitat  estrangera",350
+2016,4,"Les Corts",19,"les Corts","Persona física. Nacionalitat  estrangera",314
+2016,4,"Les Corts",20,"la Maternitat i Sant Ramon","Persona física. Nacionalitat  estrangera",117
+2016,4,"Les Corts",21,"Pedralbes","Persona física. Nacionalitat  estrangera",265
+2016,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Persona física. Nacionalitat  estrangera",173
+2016,5,"Sarrià-Sant Gervasi",23,"Sarrià","Persona física. Nacionalitat  estrangera",307
+2016,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Persona física. Nacionalitat  estrangera",185
+2016,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Persona física. Nacionalitat  estrangera",249
+2016,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Persona física. Nacionalitat  estrangera",513
+2016,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Persona física. Nacionalitat  estrangera",317
+2016,6,"Gràcia",28,"Vallcarca i els Penitents","Persona física. Nacionalitat  estrangera",188
+2016,6,"Gràcia",29,"el Coll","Persona física. Nacionalitat  estrangera",92
+2016,6,"Gràcia",30,"la Salut","Persona física. Nacionalitat  estrangera",149
+2016,6,"Gràcia",31,"la Vila de Gràcia","Persona física. Nacionalitat  estrangera",843
+2016,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Persona física. Nacionalitat  estrangera",296
+2016,7,"Horta-Guinardó",33,"el Baix Guinardó","Persona física. Nacionalitat  estrangera",179
+2016,7,"Horta-Guinardó",34,"Can Baró","Persona física. Nacionalitat  estrangera",99
+2016,7,"Horta-Guinardó",35,"el Guinardó","Persona física. Nacionalitat  estrangera",235
+2016,7,"Horta-Guinardó",36,"la Font d'en Fargues","Persona física. Nacionalitat  estrangera",41
+2016,7,"Horta-Guinardó",37,"el Carmel","Persona física. Nacionalitat  estrangera",196
+2016,7,"Horta-Guinardó",38,"la Teixonera","Persona física. Nacionalitat  estrangera",76
+2016,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Persona física. Nacionalitat  estrangera",36
+2016,7,"Horta-Guinardó",40,"Montbau","Persona física. Nacionalitat  estrangera",34
+2016,7,"Horta-Guinardó",41,"la Vall d'Hebron","Persona física. Nacionalitat  estrangera",22
+2016,7,"Horta-Guinardó",42,"la Clota","Persona física. Nacionalitat  estrangera",0
+2016,7,"Horta-Guinardó",43,"Horta","Persona física. Nacionalitat  estrangera",88
+2016,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Persona física. Nacionalitat  estrangera",122
+2016,8,"Nou Barris",45,"Porta","Persona física. Nacionalitat  estrangera",95
+2016,8,"Nou Barris",46,"el Turó de la Peira","Persona física. Nacionalitat  estrangera",133
+2016,8,"Nou Barris",47,"Can Peguera","Persona física. Nacionalitat  estrangera",1
+2016,8,"Nou Barris",48,"la Guineueta","Persona física. Nacionalitat  estrangera",27
+2016,8,"Nou Barris",49,"Canyelles","Persona física. Nacionalitat  estrangera",14
+2016,8,"Nou Barris",50,"les Roquetes","Persona física. Nacionalitat  estrangera",164
+2016,8,"Nou Barris",51,"Verdun","Persona física. Nacionalitat  estrangera",95
+2016,8,"Nou Barris",52,"la Prosperitat","Persona física. Nacionalitat  estrangera",149
+2016,8,"Nou Barris",53,"la Trinitat Nova","Persona física. Nacionalitat  estrangera",83
+2016,8,"Nou Barris",54,"Torre Baró","Persona física. Nacionalitat  estrangera",14
+2016,8,"Nou Barris",55,"Ciutat Meridiana","Persona física. Nacionalitat  estrangera",175
+2016,8,"Nou Barris",56,"Vallbona","Persona física. Nacionalitat  estrangera",12
+2016,9,"Sant Andreu",57,"la Trinitat Vella","Persona física. Nacionalitat  estrangera",175
+2016,9,"Sant Andreu",58,"Baró de Viver","Persona física. Nacionalitat  estrangera",17
+2016,9,"Sant Andreu",59,"el Bon Pastor","Persona física. Nacionalitat  estrangera",114
+2016,9,"Sant Andreu",60,"Sant Andreu","Persona física. Nacionalitat  estrangera",201
+2016,9,"Sant Andreu",61,"la Sagrera","Persona física. Nacionalitat  estrangera",131
+2016,9,"Sant Andreu",62,"el Congrés i els Indians","Persona física. Nacionalitat  estrangera",69
+2016,9,"Sant Andreu",63,"Navas","Persona física. Nacionalitat  estrangera",138
+2016,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Persona física. Nacionalitat  estrangera",351
+2016,10,"Sant Martí",65,"el Clot","Persona física. Nacionalitat  estrangera",194
+2016,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Persona física. Nacionalitat  estrangera",244
+2016,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Persona física. Nacionalitat  estrangera",185
+2016,10,"Sant Martí",68,"el Poblenou","Persona física. Nacionalitat  estrangera",737
+2016,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Persona física. Nacionalitat  estrangera",460
+2016,10,"Sant Martí",70,"el Besòs i el Maresme","Persona física. Nacionalitat  estrangera",489
+2016,10,"Sant Martí",71,"Provençals del Poblenou","Persona física. Nacionalitat  estrangera",179
+2016,10,"Sant Martí",72,"Sant Martí de Provençals","Persona física. Nacionalitat  estrangera",176
+2016,10,"Sant Martí",73,"la Verneda i la Pau","Persona física. Nacionalitat  estrangera",187
+2016,1,"Ciutat Vella",1,"el Raval","Persona jurídica",6354
+2016,1,"Ciutat Vella",2,"el Barri Gòtic","Persona jurídica",3285
+2016,1,"Ciutat Vella",3,"la Barceloneta","Persona jurídica",1689
+2016,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Persona jurídica",3907
+2016,2,"Eixample",5,"el Fort Pienc","Persona jurídica",2935
+2016,2,"Eixample",6,"la Sagrada Família","Persona jurídica",3527
+2016,2,"Eixample",7,"la Dreta de l'Eixample","Persona jurídica",7257
+2016,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Persona jurídica",4895
+2016,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Persona jurídica",3838
+2016,2,"Eixample",10,"Sant Antoni","Persona jurídica",2927
+2016,3,"Sants-Montjuïc",11,"el Poble Sec","Persona jurídica",2468
+2016,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Persona jurídica",306
+2016,3,"Sants-Montjuïc",13,"la Marina de Port","Persona jurídica",1401
+2016,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Persona jurídica",441
+2016,3,"Sants-Montjuïc",15,"Hostafrancs","Persona jurídica",1056
+2016,3,"Sants-Montjuïc",16,"la Bordeta","Persona jurídica",521
+2016,3,"Sants-Montjuïc",17,"Sants - Badal","Persona jurídica",887
+2016,3,"Sants-Montjuïc",18,"Sants","Persona jurídica",2314
+2016,4,"Les Corts",19,"les Corts","Persona jurídica",2482
+2016,4,"Les Corts",20,"la Maternitat i Sant Ramon","Persona jurídica",1113
+2016,4,"Les Corts",21,"Pedralbes","Persona jurídica",1303
+2016,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Persona jurídica",379
+2016,5,"Sarrià-Sant Gervasi",23,"Sarrià","Persona jurídica",1803
+2016,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Persona jurídica",1300
+2016,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Persona jurídica",2674
+2016,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Persona jurídica",4989
+2016,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Persona jurídica",2723
+2016,6,"Gràcia",28,"Vallcarca i els Penitents","Persona jurídica",1216
+2016,6,"Gràcia",29,"el Coll","Persona jurídica",413
+2016,6,"Gràcia",30,"la Salut","Persona jurídica",751
+2016,6,"Gràcia",31,"la Vila de Gràcia","Persona jurídica",4511
+2016,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Persona jurídica",2120
+2016,7,"Horta-Guinardó",33,"el Baix Guinardó","Persona jurídica",1169
+2016,7,"Horta-Guinardó",34,"Can Baró","Persona jurídica",296
+2016,7,"Horta-Guinardó",35,"el Guinardó","Persona jurídica",1713
+2016,7,"Horta-Guinardó",36,"la Font d'en Fargues","Persona jurídica",248
+2016,7,"Horta-Guinardó",37,"el Carmel","Persona jurídica",956
+2016,7,"Horta-Guinardó",38,"la Teixonera","Persona jurídica",466
+2016,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Persona jurídica",598
+2016,7,"Horta-Guinardó",40,"Montbau","Persona jurídica",69
+2016,7,"Horta-Guinardó",41,"la Vall d'Hebron","Persona jurídica",804
+2016,7,"Horta-Guinardó",42,"la Clota","Persona jurídica",100
+2016,7,"Horta-Guinardó",43,"Horta","Persona jurídica",893
+2016,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Persona jurídica",610
+2016,8,"Nou Barris",45,"Porta","Persona jurídica",1210
+2016,8,"Nou Barris",46,"el Turó de la Peira","Persona jurídica",1336
+2016,8,"Nou Barris",47,"Can Peguera","Persona jurídica",838
+2016,8,"Nou Barris",48,"la Guineueta","Persona jurídica",782
+2016,8,"Nou Barris",49,"Canyelles","Persona jurídica",67
+2016,8,"Nou Barris",50,"les Roquetes","Persona jurídica",466
+2016,8,"Nou Barris",51,"Verdun","Persona jurídica",416
+2016,8,"Nou Barris",52,"la Prosperitat","Persona jurídica",696
+2016,8,"Nou Barris",53,"la Trinitat Nova","Persona jurídica",579
+2016,8,"Nou Barris",54,"Torre Baró","Persona jurídica",569
+2016,8,"Nou Barris",55,"Ciutat Meridiana","Persona jurídica",430
+2016,8,"Nou Barris",56,"Vallbona","Persona jurídica",245
+2016,9,"Sant Andreu",57,"la Trinitat Vella","Persona jurídica",501
+2016,9,"Sant Andreu",58,"Baró de Viver","Persona jurídica",256
+2016,9,"Sant Andreu",59,"el Bon Pastor","Persona jurídica",910
+2016,9,"Sant Andreu",60,"Sant Andreu","Persona jurídica",2601
+2016,9,"Sant Andreu",61,"la Sagrera","Persona jurídica",2413
+2016,9,"Sant Andreu",62,"el Congrés i els Indians","Persona jurídica",544
+2016,9,"Sant Andreu",63,"Navas","Persona jurídica",846
+2016,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Persona jurídica",2163
+2016,10,"Sant Martí",65,"el Clot","Persona jurídica",1327
+2016,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Persona jurídica",1006
+2016,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Persona jurídica",558
+2016,10,"Sant Martí",68,"el Poblenou","Persona jurídica",2202
+2016,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Persona jurídica",1073
+2016,10,"Sant Martí",70,"el Besòs i el Maresme","Persona jurídica",808
+2016,10,"Sant Martí",71,"Provençals del Poblenou","Persona jurídica",958
+2016,10,"Sant Martí",72,"Sant Martí de Provençals","Persona jurídica",469
+2016,10,"Sant Martí",73,"la Verneda i la Pau","Persona jurídica",562
+2016,1,"Ciutat Vella",1,"el Raval","No procedeix",684
+2016,1,"Ciutat Vella",2,"el Barri Gòtic","No procedeix",218
+2016,1,"Ciutat Vella",3,"la Barceloneta","No procedeix",172
+2016,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","No procedeix",262
+2016,2,"Eixample",5,"el Fort Pienc","No procedeix",456
+2016,2,"Eixample",6,"la Sagrada Família","No procedeix",713
+2016,2,"Eixample",7,"la Dreta de l'Eixample","No procedeix",670
+2016,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","No procedeix",667
+2016,2,"Eixample",9,"la Nova Esquerra de l'Eixample","No procedeix",709
+2016,2,"Eixample",10,"Sant Antoni","No procedeix",662
+2016,3,"Sants-Montjuïc",11,"el Poble Sec","No procedeix",435
+2016,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","No procedeix",22
+2016,3,"Sants-Montjuïc",13,"la Marina de Port","No procedeix",170
+2016,3,"Sants-Montjuïc",14,"la Font de la Guatlla","No procedeix",97
+2016,3,"Sants-Montjuïc",15,"Hostafrancs","No procedeix",194
+2016,3,"Sants-Montjuïc",16,"la Bordeta","No procedeix",206
+2016,3,"Sants-Montjuïc",17,"Sants - Badal","No procedeix",265
+2016,3,"Sants-Montjuïc",18,"Sants","No procedeix",466
+2016,4,"Les Corts",19,"les Corts","No procedeix",565
+2016,4,"Les Corts",20,"la Maternitat i Sant Ramon","No procedeix",273
+2016,4,"Les Corts",21,"Pedralbes","No procedeix",140
+2016,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","No procedeix",66
+2016,5,"Sarrià-Sant Gervasi",23,"Sarrià","No procedeix",310
+2016,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","No procedeix",134
+2016,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","No procedeix",281
+2016,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","No procedeix",544
+2016,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","No procedeix",459
+2016,6,"Gràcia",28,"Vallcarca i els Penitents","No procedeix",186
+2016,6,"Gràcia",29,"el Coll","No procedeix",75
+2016,6,"Gràcia",30,"la Salut","No procedeix",138
+2016,6,"Gràcia",31,"la Vila de Gràcia","No procedeix",1298
+2016,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","No procedeix",482
+2016,7,"Horta-Guinardó",33,"el Baix Guinardó","No procedeix",232
+2016,7,"Horta-Guinardó",34,"Can Baró","No procedeix",146
+2016,7,"Horta-Guinardó",35,"el Guinardó","No procedeix",506
+2016,7,"Horta-Guinardó",36,"la Font d'en Fargues","No procedeix",98
+2016,7,"Horta-Guinardó",37,"el Carmel","No procedeix",469
+2016,7,"Horta-Guinardó",38,"la Teixonera","No procedeix",108
+2016,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","No procedeix",58
+2016,7,"Horta-Guinardó",40,"Montbau","No procedeix",20
+2016,7,"Horta-Guinardó",41,"la Vall d'Hebron","No procedeix",45
+2016,7,"Horta-Guinardó",42,"la Clota","No procedeix",13
+2016,7,"Horta-Guinardó",43,"Horta","No procedeix",250
+2016,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","No procedeix",278
+2016,8,"Nou Barris",45,"Porta","No procedeix",240
+2016,8,"Nou Barris",46,"el Turó de la Peira","No procedeix",87
+2016,8,"Nou Barris",47,"Can Peguera","No procedeix",0
+2016,8,"Nou Barris",48,"la Guineueta","No procedeix",112
+2016,8,"Nou Barris",49,"Canyelles","No procedeix",87
+2016,8,"Nou Barris",50,"les Roquetes","No procedeix",169
+2016,8,"Nou Barris",51,"Verdun","No procedeix",102
+2016,8,"Nou Barris",52,"la Prosperitat","No procedeix",289
+2016,8,"Nou Barris",53,"la Trinitat Nova","No procedeix",22
+2016,8,"Nou Barris",54,"Torre Baró","No procedeix",90
+2016,8,"Nou Barris",55,"Ciutat Meridiana","No procedeix",82
+2016,8,"Nou Barris",56,"Vallbona","No procedeix",14
+2016,9,"Sant Andreu",57,"la Trinitat Vella","No procedeix",106
+2016,9,"Sant Andreu",58,"Baró de Viver","No procedeix",7
+2016,9,"Sant Andreu",59,"el Bon Pastor","No procedeix",61
+2016,9,"Sant Andreu",60,"Sant Andreu","No procedeix",412
+2016,9,"Sant Andreu",61,"la Sagrera","No procedeix",223
+2016,9,"Sant Andreu",62,"el Congrés i els Indians","No procedeix",130
+2016,9,"Sant Andreu",63,"Navas","No procedeix",240
+2016,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","No procedeix",568
+2016,10,"Sant Martí",65,"el Clot","No procedeix",268
+2016,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","No procedeix",144
+2016,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","No procedeix",33
+2016,10,"Sant Martí",68,"el Poblenou","No procedeix",322
+2016,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","No procedeix",52
+2016,10,"Sant Martí",70,"el Besòs i el Maresme","No procedeix",142
+2016,10,"Sant Martí",71,"Provençals del Poblenou","No procedeix",147
+2016,10,"Sant Martí",72,"Sant Martí de Provençals","No procedeix",188
+2016,10,"Sant Martí",73,"la Verneda i la Pau","No procedeix",262

@@ -1,0 +1,297 @@
+"Any","Codi_Districte","Nom_Districte","Codi_Barri","Nom_Barri","Tipus_propietari","Nombre"
+2011,1,"Ciutat Vella",1,"el Raval","Persona física. Nacionalitat  espanyola",15126
+2011,1,"Ciutat Vella",2,"el Barri Gòtic","Persona física. Nacionalitat  espanyola",6628
+2011,1,"Ciutat Vella",3,"la Barceloneta","Persona física. Nacionalitat  espanyola",7084
+2011,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Persona física. Nacionalitat  espanyola",9613
+2011,2,"Eixample",5,"el Fort Pienc","Persona física. Nacionalitat  espanyola",11891
+2011,2,"Eixample",6,"la Sagrada Família","Persona física. Nacionalitat  espanyola",22630
+2011,2,"Eixample",7,"la Dreta de l'Eixample","Persona física. Nacionalitat  espanyola",18166
+2011,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Persona física. Nacionalitat  espanyola",18510
+2011,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Persona física. Nacionalitat  espanyola",24650
+2011,2,"Eixample",10,"Sant Antoni","Persona física. Nacionalitat  espanyola",16300
+2011,3,"Sants-Montjuïc",11,"el Poble Sec","Persona física. Nacionalitat  espanyola",15536
+2011,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Persona física. Nacionalitat  espanyola",497
+2011,3,"Sants-Montjuïc",13,"la Marina de Port","Persona física. Nacionalitat  espanyola",11151
+2011,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Persona física. Nacionalitat  espanyola",4260
+2011,3,"Sants-Montjuïc",15,"Hostafrancs","Persona física. Nacionalitat  espanyola",6624
+2011,3,"Sants-Montjuïc",16,"la Bordeta","Persona física. Nacionalitat  espanyola",7507
+2011,3,"Sants-Montjuïc",17,"Sants - Badal","Persona física. Nacionalitat  espanyola",10231
+2011,3,"Sants-Montjuïc",18,"Sants","Persona física. Nacionalitat  espanyola",17828
+2011,4,"Les Corts",19,"les Corts","Persona física. Nacionalitat  espanyola",19309
+2011,4,"Les Corts",20,"la Maternitat i Sant Ramon","Persona física. Nacionalitat  espanyola",9864
+2011,4,"Les Corts",21,"Pedralbes","Persona física. Nacionalitat  espanyola",4220
+2011,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Persona física. Nacionalitat  espanyola",2757
+2011,5,"Sarrià-Sant Gervasi",23,"Sarrià","Persona física. Nacionalitat  espanyola",10135
+2011,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Persona física. Nacionalitat  espanyola",5341
+2011,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Persona física. Nacionalitat  espanyola",9230
+2011,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Persona física. Nacionalitat  espanyola",19192
+2011,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Persona física. Nacionalitat  espanyola",12703
+2011,6,"Gràcia",28,"Vallcarca i els Penitents","Persona física. Nacionalitat  espanyola",7226
+2011,6,"Gràcia",29,"el Coll","Persona física. Nacionalitat  espanyola",3361
+2011,6,"Gràcia",30,"la Salut","Persona física. Nacionalitat  espanyola",5835
+2011,6,"Gràcia",31,"la Vila de Gràcia","Persona física. Nacionalitat  espanyola",24627
+2011,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Persona física. Nacionalitat  espanyola",15426
+2011,7,"Horta-Guinardó",33,"el Baix Guinardó","Persona física. Nacionalitat  espanyola",10756
+2011,7,"Horta-Guinardó",34,"Can Baró","Persona física. Nacionalitat  espanyola",4235
+2011,7,"Horta-Guinardó",35,"el Guinardó","Persona física. Nacionalitat  espanyola",15924
+2011,7,"Horta-Guinardó",36,"la Font d'en Fargues","Persona física. Nacionalitat  espanyola",4769
+2011,7,"Horta-Guinardó",37,"el Carmel","Persona física. Nacionalitat  espanyola",13702
+2011,7,"Horta-Guinardó",38,"la Teixonera","Persona física. Nacionalitat  espanyola",5062
+2011,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Persona física. Nacionalitat  espanyola",2818
+2011,7,"Horta-Guinardó",40,"Montbau","Persona física. Nacionalitat  espanyola",2443
+2011,7,"Horta-Guinardó",41,"la Vall d'Hebron","Persona física. Nacionalitat  espanyola",2877
+2011,7,"Horta-Guinardó",42,"la Clota","Persona física. Nacionalitat  espanyola",276
+2011,7,"Horta-Guinardó",43,"Horta","Persona física. Nacionalitat  espanyola",12147
+2011,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Persona física. Nacionalitat  espanyola",10985
+2011,8,"Nou Barris",45,"Porta","Persona física. Nacionalitat  espanyola",9722
+2011,8,"Nou Barris",46,"el Turó de la Peira","Persona física. Nacionalitat  espanyola",5235
+2011,8,"Nou Barris",47,"Can Peguera","Persona física. Nacionalitat  espanyola",102
+2011,8,"Nou Barris",48,"la Guineueta","Persona física. Nacionalitat  espanyola",5877
+2011,8,"Nou Barris",49,"Canyelles","Persona física. Nacionalitat  espanyola",2671
+2011,8,"Nou Barris",50,"les Roquetes","Persona física. Nacionalitat  espanyola",6159
+2011,8,"Nou Barris",51,"Verdun","Persona física. Nacionalitat  espanyola",5284
+2011,8,"Nou Barris",52,"la Prosperitat","Persona física. Nacionalitat  espanyola",11274
+2011,8,"Nou Barris",53,"la Trinitat Nova","Persona física. Nacionalitat  espanyola",2924
+2011,8,"Nou Barris",54,"Torre Baró","Persona física. Nacionalitat  espanyola",952
+2011,8,"Nou Barris",55,"Ciutat Meridiana","Persona física. Nacionalitat  espanyola",3147
+2011,8,"Nou Barris",56,"Vallbona","Persona física. Nacionalitat  espanyola",580
+2011,9,"Sant Andreu",57,"la Trinitat Vella","Persona física. Nacionalitat  espanyola",3186
+2011,9,"Sant Andreu",58,"Baró de Viver","Persona física. Nacionalitat  espanyola",856
+2011,9,"Sant Andreu",59,"el Bon Pastor","Persona física. Nacionalitat  espanyola",4083
+2011,9,"Sant Andreu",60,"Sant Andreu","Persona física. Nacionalitat  espanyola",24956
+2011,9,"Sant Andreu",61,"la Sagrera","Persona física. Nacionalitat  espanyola",10403
+2011,9,"Sant Andreu",62,"el Congrés i els Indians","Persona física. Nacionalitat  espanyola",6162
+2011,9,"Sant Andreu",63,"Navas","Persona física. Nacionalitat  espanyola",8878
+2011,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Persona física. Nacionalitat  espanyola",16686
+2011,10,"Sant Martí",65,"el Clot","Persona física. Nacionalitat  espanyola",10514
+2011,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Persona física. Nacionalitat  espanyola",5567
+2011,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Persona física. Nacionalitat  espanyola",3884
+2011,10,"Sant Martí",68,"el Poblenou","Persona física. Nacionalitat  espanyola",12995
+2011,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Persona física. Nacionalitat  espanyola",4765
+2011,10,"Sant Martí",70,"el Besòs i el Maresme","Persona física. Nacionalitat  espanyola",8247
+2011,10,"Sant Martí",71,"Provençals del Poblenou","Persona física. Nacionalitat  espanyola",7656
+2011,10,"Sant Martí",72,"Sant Martí de Provençals","Persona física. Nacionalitat  espanyola",10786
+2011,10,"Sant Martí",73,"la Verneda i la Pau","Persona física. Nacionalitat  espanyola",11564
+2011,99,"No consta",99,"No consta","Persona física. Nacionalitat  espanyola",17
+2011,1,"Ciutat Vella",1,"el Raval","Persona física. Nacionalitat  estrangera",1658
+2011,1,"Ciutat Vella",2,"el Barri Gòtic","Persona física. Nacionalitat  estrangera",419
+2011,1,"Ciutat Vella",3,"la Barceloneta","Persona física. Nacionalitat  estrangera",269
+2011,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Persona física. Nacionalitat  estrangera",581
+2011,2,"Eixample",5,"el Fort Pienc","Persona física. Nacionalitat  estrangera",214
+2011,2,"Eixample",6,"la Sagrada Família","Persona física. Nacionalitat  estrangera",323
+2011,2,"Eixample",7,"la Dreta de l'Eixample","Persona física. Nacionalitat  estrangera",412
+2011,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Persona física. Nacionalitat  estrangera",367
+2011,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Persona física. Nacionalitat  estrangera",359
+2011,2,"Eixample",10,"Sant Antoni","Persona física. Nacionalitat  estrangera",279
+2011,3,"Sants-Montjuïc",11,"el Poble Sec","Persona física. Nacionalitat  estrangera",822
+2011,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Persona física. Nacionalitat  estrangera",5
+2011,3,"Sants-Montjuïc",13,"la Marina de Port","Persona física. Nacionalitat  estrangera",376
+2011,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Persona física. Nacionalitat  estrangera",83
+2011,3,"Sants-Montjuïc",15,"Hostafrancs","Persona física. Nacionalitat  estrangera",141
+2011,3,"Sants-Montjuïc",16,"la Bordeta","Persona física. Nacionalitat  estrangera",96
+2011,3,"Sants-Montjuïc",17,"Sants - Badal","Persona física. Nacionalitat  estrangera",156
+2011,3,"Sants-Montjuïc",18,"Sants","Persona física. Nacionalitat  estrangera",247
+2011,4,"Les Corts",19,"les Corts","Persona física. Nacionalitat  estrangera",233
+2011,4,"Les Corts",20,"la Maternitat i Sant Ramon","Persona física. Nacionalitat  estrangera",79
+2011,4,"Les Corts",21,"Pedralbes","Persona física. Nacionalitat  estrangera",153
+2011,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Persona física. Nacionalitat  estrangera",120
+2011,5,"Sarrià-Sant Gervasi",23,"Sarrià","Persona física. Nacionalitat  estrangera",229
+2011,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Persona física. Nacionalitat  estrangera",122
+2011,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Persona física. Nacionalitat  estrangera",175
+2011,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Persona física. Nacionalitat  estrangera",320
+2011,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Persona física. Nacionalitat  estrangera",205
+2011,6,"Gràcia",28,"Vallcarca i els Penitents","Persona física. Nacionalitat  estrangera",121
+2011,6,"Gràcia",29,"el Coll","Persona física. Nacionalitat  estrangera",64
+2011,6,"Gràcia",30,"la Salut","Persona física. Nacionalitat  estrangera",87
+2011,6,"Gràcia",31,"la Vila de Gràcia","Persona física. Nacionalitat  estrangera",434
+2011,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Persona física. Nacionalitat  estrangera",166
+2011,7,"Horta-Guinardó",33,"el Baix Guinardó","Persona física. Nacionalitat  estrangera",109
+2011,7,"Horta-Guinardó",34,"Can Baró","Persona física. Nacionalitat  estrangera",75
+2011,7,"Horta-Guinardó",35,"el Guinardó","Persona física. Nacionalitat  estrangera",168
+2011,7,"Horta-Guinardó",36,"la Font d'en Fargues","Persona física. Nacionalitat  estrangera",42
+2011,7,"Horta-Guinardó",37,"el Carmel","Persona física. Nacionalitat  estrangera",294
+2011,7,"Horta-Guinardó",38,"la Teixonera","Persona física. Nacionalitat  estrangera",102
+2011,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Persona física. Nacionalitat  estrangera",31
+2011,7,"Horta-Guinardó",40,"Montbau","Persona física. Nacionalitat  estrangera",26
+2011,7,"Horta-Guinardó",41,"la Vall d'Hebron","Persona física. Nacionalitat  estrangera",21
+2011,7,"Horta-Guinardó",42,"la Clota","Persona física. Nacionalitat  estrangera",3
+2011,7,"Horta-Guinardó",43,"Horta","Persona física. Nacionalitat  estrangera",78
+2011,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Persona física. Nacionalitat  estrangera",142
+2011,8,"Nou Barris",45,"Porta","Persona física. Nacionalitat  estrangera",116
+2011,8,"Nou Barris",46,"el Turó de la Peira","Persona física. Nacionalitat  estrangera",330
+2011,8,"Nou Barris",47,"Can Peguera","Persona física. Nacionalitat  estrangera",0
+2011,8,"Nou Barris",48,"la Guineueta","Persona física. Nacionalitat  estrangera",45
+2011,8,"Nou Barris",49,"Canyelles","Persona física. Nacionalitat  estrangera",22
+2011,8,"Nou Barris",50,"les Roquetes","Persona física. Nacionalitat  estrangera",307
+2011,8,"Nou Barris",51,"Verdun","Persona física. Nacionalitat  estrangera",159
+2011,8,"Nou Barris",52,"la Prosperitat","Persona física. Nacionalitat  estrangera",236
+2011,8,"Nou Barris",53,"la Trinitat Nova","Persona física. Nacionalitat  estrangera",180
+2011,8,"Nou Barris",54,"Torre Baró","Persona física. Nacionalitat  estrangera",18
+2011,8,"Nou Barris",55,"Ciutat Meridiana","Persona física. Nacionalitat  estrangera",479
+2011,8,"Nou Barris",56,"Vallbona","Persona física. Nacionalitat  estrangera",10
+2011,9,"Sant Andreu",57,"la Trinitat Vella","Persona física. Nacionalitat  estrangera",361
+2011,9,"Sant Andreu",58,"Baró de Viver","Persona física. Nacionalitat  estrangera",8
+2011,9,"Sant Andreu",59,"el Bon Pastor","Persona física. Nacionalitat  estrangera",175
+2011,9,"Sant Andreu",60,"Sant Andreu","Persona física. Nacionalitat  estrangera",145
+2011,9,"Sant Andreu",61,"la Sagrera","Persona física. Nacionalitat  estrangera",104
+2011,9,"Sant Andreu",62,"el Congrés i els Indians","Persona física. Nacionalitat  estrangera",67
+2011,9,"Sant Andreu",63,"Navas","Persona física. Nacionalitat  estrangera",107
+2011,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Persona física. Nacionalitat  estrangera",228
+2011,10,"Sant Martí",65,"el Clot","Persona física. Nacionalitat  estrangera",148
+2011,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Persona física. Nacionalitat  estrangera",128
+2011,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Persona física. Nacionalitat  estrangera",117
+2011,10,"Sant Martí",68,"el Poblenou","Persona física. Nacionalitat  estrangera",314
+2011,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Persona física. Nacionalitat  estrangera",194
+2011,10,"Sant Martí",70,"el Besòs i el Maresme","Persona física. Nacionalitat  estrangera",594
+2011,10,"Sant Martí",71,"Provençals del Poblenou","Persona física. Nacionalitat  estrangera",121
+2011,10,"Sant Martí",72,"Sant Martí de Provençals","Persona física. Nacionalitat  estrangera",128
+2011,10,"Sant Martí",73,"la Verneda i la Pau","Persona física. Nacionalitat  estrangera",181
+2011,99,"No consta",99,"No consta","Persona física. Nacionalitat  estrangera",0
+2011,1,"Ciutat Vella",1,"el Raval","Persona jurídica",5487
+2011,1,"Ciutat Vella",2,"el Barri Gòtic","Persona jurídica",2926
+2011,1,"Ciutat Vella",3,"la Barceloneta","Persona jurídica",1466
+2011,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Persona jurídica",3696
+2011,2,"Eixample",5,"el Fort Pienc","Persona jurídica",2738
+2011,2,"Eixample",6,"la Sagrada Família","Persona jurídica",2932
+2011,2,"Eixample",7,"la Dreta de l'Eixample","Persona jurídica",6592
+2011,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Persona jurídica",4105
+2011,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Persona jurídica",3441
+2011,2,"Eixample",10,"Sant Antoni","Persona jurídica",2501
+2011,3,"Sants-Montjuïc",11,"el Poble Sec","Persona jurídica",1930
+2011,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Persona jurídica",363
+2011,3,"Sants-Montjuïc",13,"la Marina de Port","Persona jurídica",1107
+2011,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Persona jurídica",455
+2011,3,"Sants-Montjuïc",15,"Hostafrancs","Persona jurídica",847
+2011,3,"Sants-Montjuïc",16,"la Bordeta","Persona jurídica",451
+2011,3,"Sants-Montjuïc",17,"Sants - Badal","Persona jurídica",719
+2011,3,"Sants-Montjuïc",18,"Sants","Persona jurídica",2064
+2011,4,"Les Corts",19,"les Corts","Persona jurídica",2332
+2011,4,"Les Corts",20,"la Maternitat i Sant Ramon","Persona jurídica",1105
+2011,4,"Les Corts",21,"Pedralbes","Persona jurídica",1224
+2011,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Persona jurídica",309
+2011,5,"Sarrià-Sant Gervasi",23,"Sarrià","Persona jurídica",1689
+2011,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Persona jurídica",1212
+2011,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Persona jurídica",2487
+2011,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Persona jurídica",4527
+2011,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Persona jurídica",2442
+2011,6,"Gràcia",28,"Vallcarca i els Penitents","Persona jurídica",1145
+2011,6,"Gràcia",29,"el Coll","Persona jurídica",346
+2011,6,"Gràcia",30,"la Salut","Persona jurídica",649
+2011,6,"Gràcia",31,"la Vila de Gràcia","Persona jurídica",4076
+2011,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Persona jurídica",1735
+2011,7,"Horta-Guinardó",33,"el Baix Guinardó","Persona jurídica",1100
+2011,7,"Horta-Guinardó",34,"Can Baró","Persona jurídica",248
+2011,7,"Horta-Guinardó",35,"el Guinardó","Persona jurídica",1473
+2011,7,"Horta-Guinardó",36,"la Font d'en Fargues","Persona jurídica",216
+2011,7,"Horta-Guinardó",37,"el Carmel","Persona jurídica",794
+2011,7,"Horta-Guinardó",38,"la Teixonera","Persona jurídica",350
+2011,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Persona jurídica",566
+2011,7,"Horta-Guinardó",40,"Montbau","Persona jurídica",43
+2011,7,"Horta-Guinardó",41,"la Vall d'Hebron","Persona jurídica",810
+2011,7,"Horta-Guinardó",42,"la Clota","Persona jurídica",33
+2011,7,"Horta-Guinardó",43,"Horta","Persona jurídica",739
+2011,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Persona jurídica",540
+2011,8,"Nou Barris",45,"Porta","Persona jurídica",1118
+2011,8,"Nou Barris",46,"el Turó de la Peira","Persona jurídica",1232
+2011,8,"Nou Barris",47,"Can Peguera","Persona jurídica",812
+2011,8,"Nou Barris",48,"la Guineueta","Persona jurídica",788
+2011,8,"Nou Barris",49,"Canyelles","Persona jurídica",58
+2011,8,"Nou Barris",50,"les Roquetes","Persona jurídica",284
+2011,8,"Nou Barris",51,"Verdun","Persona jurídica",434
+2011,8,"Nou Barris",52,"la Prosperitat","Persona jurídica",523
+2011,8,"Nou Barris",53,"la Trinitat Nova","Persona jurídica",537
+2011,8,"Nou Barris",54,"Torre Baró","Persona jurídica",330
+2011,8,"Nou Barris",55,"Ciutat Meridiana","Persona jurídica",210
+2011,8,"Nou Barris",56,"Vallbona","Persona jurídica",271
+2011,9,"Sant Andreu",57,"la Trinitat Vella","Persona jurídica",371
+2011,9,"Sant Andreu",58,"Baró de Viver","Persona jurídica",237
+2011,9,"Sant Andreu",59,"el Bon Pastor","Persona jurídica",959
+2011,9,"Sant Andreu",60,"Sant Andreu","Persona jurídica",2474
+2011,9,"Sant Andreu",61,"la Sagrera","Persona jurídica",2420
+2011,9,"Sant Andreu",62,"el Congrés i els Indians","Persona jurídica",501
+2011,9,"Sant Andreu",63,"Navas","Persona jurídica",609
+2011,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Persona jurídica",2005
+2011,10,"Sant Martí",65,"el Clot","Persona jurídica",1222
+2011,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Persona jurídica",761
+2011,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Persona jurídica",628
+2011,10,"Sant Martí",68,"el Poblenou","Persona jurídica",2303
+2011,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Persona jurídica",1213
+2011,10,"Sant Martí",70,"el Besòs i el Maresme","Persona jurídica",527
+2011,10,"Sant Martí",71,"Provençals del Poblenou","Persona jurídica",959
+2011,10,"Sant Martí",72,"Sant Martí de Provençals","Persona jurídica",439
+2011,10,"Sant Martí",73,"la Verneda i la Pau","Persona jurídica",756
+2011,99,"No consta",99,"No consta","Persona jurídica",4
+2011,1,"Ciutat Vella",1,"el Raval","No procedeix",1008
+2011,1,"Ciutat Vella",2,"el Barri Gòtic","No procedeix",509
+2011,1,"Ciutat Vella",3,"la Barceloneta","No procedeix",382
+2011,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","No procedeix",551
+2011,2,"Eixample",5,"el Fort Pienc","No procedeix",754
+2011,2,"Eixample",6,"la Sagrada Família","No procedeix",1473
+2011,2,"Eixample",7,"la Dreta de l'Eixample","No procedeix",1419
+2011,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","No procedeix",1228
+2011,2,"Eixample",9,"la Nova Esquerra de l'Eixample","No procedeix",1460
+2011,2,"Eixample",10,"Sant Antoni","No procedeix",1135
+2011,3,"Sants-Montjuïc",11,"el Poble Sec","No procedeix",857
+2011,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","No procedeix",28
+2011,3,"Sants-Montjuïc",13,"la Marina de Port","No procedeix",316
+2011,3,"Sants-Montjuïc",14,"la Font de la Guatlla","No procedeix",230
+2011,3,"Sants-Montjuïc",15,"Hostafrancs","No procedeix",361
+2011,3,"Sants-Montjuïc",16,"la Bordeta","No procedeix",398
+2011,3,"Sants-Montjuïc",17,"Sants - Badal","No procedeix",506
+2011,3,"Sants-Montjuïc",18,"Sants","No procedeix",913
+2011,4,"Les Corts",19,"les Corts","No procedeix",1078
+2011,4,"Les Corts",20,"la Maternitat i Sant Ramon","No procedeix",557
+2011,4,"Les Corts",21,"Pedralbes","No procedeix",272
+2011,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","No procedeix",117
+2011,5,"Sarrià-Sant Gervasi",23,"Sarrià","No procedeix",589
+2011,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","No procedeix",269
+2011,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","No procedeix",563
+2011,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","No procedeix",1118
+2011,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","No procedeix",851
+2011,6,"Gràcia",28,"Vallcarca i els Penitents","No procedeix",337
+2011,6,"Gràcia",29,"el Coll","No procedeix",147
+2011,6,"Gràcia",30,"la Salut","No procedeix",327
+2011,6,"Gràcia",31,"la Vila de Gràcia","No procedeix",2161
+2011,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","No procedeix",950
+2011,7,"Horta-Guinardó",33,"el Baix Guinardó","No procedeix",500
+2011,7,"Horta-Guinardó",34,"Can Baró","No procedeix",241
+2011,7,"Horta-Guinardó",35,"el Guinardó","No procedeix",925
+2011,7,"Horta-Guinardó",36,"la Font d'en Fargues","No procedeix",223
+2011,7,"Horta-Guinardó",37,"el Carmel","No procedeix",748
+2011,7,"Horta-Guinardó",38,"la Teixonera","No procedeix",173
+2011,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","No procedeix",112
+2011,7,"Horta-Guinardó",40,"Montbau","No procedeix",41
+2011,7,"Horta-Guinardó",41,"la Vall d'Hebron","No procedeix",101
+2011,7,"Horta-Guinardó",42,"la Clota","No procedeix",22
+2011,7,"Horta-Guinardó",43,"Horta","No procedeix",525
+2011,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","No procedeix",517
+2011,8,"Nou Barris",45,"Porta","No procedeix",469
+2011,8,"Nou Barris",46,"el Turó de la Peira","No procedeix",156
+2011,8,"Nou Barris",47,"Can Peguera","No procedeix",0
+2011,8,"Nou Barris",48,"la Guineueta","No procedeix",224
+2011,8,"Nou Barris",49,"Canyelles","No procedeix",170
+2011,8,"Nou Barris",50,"les Roquetes","No procedeix",265
+2011,8,"Nou Barris",51,"Verdun","No procedeix",199
+2011,8,"Nou Barris",52,"la Prosperitat","No procedeix",532
+2011,8,"Nou Barris",53,"la Trinitat Nova","No procedeix",41
+2011,8,"Nou Barris",54,"Torre Baró","No procedeix",147
+2011,8,"Nou Barris",55,"Ciutat Meridiana","No procedeix",132
+2011,8,"Nou Barris",56,"Vallbona","No procedeix",24
+2011,9,"Sant Andreu",57,"la Trinitat Vella","No procedeix",139
+2011,9,"Sant Andreu",58,"Baró de Viver","No procedeix",10
+2011,9,"Sant Andreu",59,"el Bon Pastor","No procedeix",122
+2011,9,"Sant Andreu",60,"Sant Andreu","No procedeix",810
+2011,9,"Sant Andreu",61,"la Sagrera","No procedeix",433
+2011,9,"Sant Andreu",62,"el Congrés i els Indians","No procedeix",258
+2011,9,"Sant Andreu",63,"Navas","No procedeix",379
+2011,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","No procedeix",956
+2011,10,"Sant Martí",65,"el Clot","No procedeix",492
+2011,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","No procedeix",290
+2011,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","No procedeix",55
+2011,10,"Sant Martí",68,"el Poblenou","No procedeix",556
+2011,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","No procedeix",97
+2011,10,"Sant Martí",70,"el Besòs i el Maresme","No procedeix",260
+2011,10,"Sant Martí",71,"Provençals del Poblenou","No procedeix",247
+2011,10,"Sant Martí",72,"Sant Martí de Provençals","No procedeix",358
+2011,10,"Sant Martí",73,"la Verneda i la Pau","No procedeix",506
+2011,99,"No consta",99,"No consta","No procedeix",0
